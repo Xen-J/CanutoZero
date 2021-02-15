@@ -1,0 +1,34 @@
+Intro (done)
+Nombre y bienvenida (done)
+Inicio de bucle de juego (done)
+Instrucciones (opcionales) (done)
+Modos de juego (done)
+
+1. Normal
+  - Pregunta
+  - Acumulación de puntaje
+2. Contrarreloj
+  - Guardar hora de inicio
+  - Definir bucle 
+  - Preguntas
+  - Acumulación de puntaje
+3. Mala y fuera
+  - Definir bucle
+  - Definir preguntas y condiciones
+4. Cronómetro
+  - Guardar hora de inicio
+  - Restar hora de inicio con final y mostrarlo
+  - Guardar tiempos consecutivos
+
+Final: Resultado de juego
+- 6 finales:
+  1. Único final: acumulación puntaje
+  2. - Final 1: faltó tiempo
+     - Final 2: tiempo suficiente, ¿cuánto sobró?
+  3. - Final 1: perdiste
+     - Final 2: ganaste
+  4. Único final: mostrar tiempo
+
+¿Ganaste ptos ocultos?
+Historial de juego (opcional) (done)
+Opción de jugar de nuevo (done)
